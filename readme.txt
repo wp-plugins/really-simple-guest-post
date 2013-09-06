@@ -9,7 +9,7 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-Really Simple Guest Post Plugin allow visitors to submit posts without registration from anywhere on site.
+Use Really Simple Guest Post Plugin and allow your visitors to submit posts without registration from anywhere on site.
 
 == Description ==
 Add a simple form by using a shortcode that enables your visitors to submit posts without registration. Anyone will be able to submit post and it will be added automatically as pending post. After reviewing you will be decide which posts approved for publish and which are rejected. Submitted posts will be included with author name, email address, author url, post title, description and keyword tags.
@@ -38,9 +38,7 @@ Wow!!! That's it! You’re really done!!!
 
 You can create a custom page for saying Thanks to your guest authors.
 
-If you want to add this custom page link then use short code  <code>[mag-simple-guest-post redirect="Your Page URL"]</code>
-
-By default it will take gusts authors to home page after submitting the post.
+If you want to add this custom page link then use short code  <code>[mag-simple-guest-post redirect="Your Page URL"]</code>. By default it will take gusts authors to home page after submitting the post.
 
 You can also post all guest post to your selected author ID by using shortcode  <code>[mag-simple-guest-post author=8]</code> . By default it will save posts to author ID 1.
 
@@ -75,8 +73,8 @@ Do you have any question? Frequently ask to support blog <strong><a href="http:/
 == Upgrade Notice ==
 
 == Screenshots ==
+1.
+2.
 <strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
 
-screenshot-1
-screenshot-2
 == Changelog ==
