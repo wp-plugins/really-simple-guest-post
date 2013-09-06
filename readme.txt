@@ -26,11 +26,11 @@ Add a simple form by using a shortcode that enables your visitors to submit post
 
 <strong>Note: </strong> Please read full description for better use.
 
-<strong>How to use this plugin?</strong>
+<h3>How to use this plugin?</h3>
 
 Create a new page/post with the name "Really Simple Guest Post" or whatever you like best.
 
-Paste this shortcode  [mag-simple-guest-post]  into the page/post and publish it.
+Paste this shortcode  <code>[mag-simple-guest-post]</code> into the page/post and publish it.
 
 Wow!!! That's it! You’re really done!!!
 
@@ -38,11 +38,11 @@ Wow!!! That's it! You’re really done!!!
 
 You can create a custom page for saying Thanks to your guest authors.
 
-If you want to add this custom page link then use short code  [mag-simple-guest-post redirect="Your Page URL"]
+If you want to add this custom page link then use short code  <code>[mag-simple-guest-post redirect="Your Page URL"]</code>
 
 By default it will take gusts authors to home page after submitting the post.
 
-You can also post all guest post to your selected author ID by using shortcode  [mag-simple-guest-post author=8] . By default it will save posts to author ID 1.
+You can also post all guest post to your selected author ID by using shortcode  <code>[mag-simple-guest-post author=8]</code> . By default it will save posts to author ID 1.
 
 What are you thinking about this plugin now? May I get a 5 star review for this plugin...:)
 
