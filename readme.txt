@@ -24,6 +24,8 @@ Add a simple form by using a shortcode that enables your visitors to submit post
 </ul>
 <strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
 
+<strong>Note: </strong> Please read full description for better use.
+
 <strong>How to use this plugin?</strong>
 
 Create a new page/post with the name "Really Simple Guest Post" or whatever you like best.
