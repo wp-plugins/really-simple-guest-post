@@ -75,5 +75,8 @@ Do you have any question? Frequently ask to support blog <strong><a href="http:/
 == Upgrade Notice ==
 
 == Screenshots ==
+<strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
 
+screenshot-1
+screenshot-2
 == Changelog ==
