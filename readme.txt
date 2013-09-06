@@ -1,7 +1,7 @@
 === Really Simple Guest Post ===
 Contributors: mag_oberon
 Donate link: http://freebloggingtricks.com/
-Tags: guest post, post from front end, anonymous post, guest book, front end post, guest blogger, post, posts, user post, visitor post, guest author, guest posting, 
+Tags: guest post, post from front end, anonymous post, guest book, front end post, guest blogger, post, posts, user post, visitor post, guest author, guest posting, author, user, guest author, guest author plugin
 Requires at least: 3.0
 Tested Up to: 3.6.0
 Stable Tag: trunk
