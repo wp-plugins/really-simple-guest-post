@@ -14,7 +14,7 @@ Really Simple Guest Post Plugin allow visitors to submit posts without registrat
 == Description ==
 Add a simple form by using a shortcode that enables your visitors to submit posts without registration. Anyone will be able to submit post and it will be added automatically as pending post. After reviewing you will be decide which posts approved for publish and which are rejected. Submitted posts will be included with author name, email address, author url, post title, description and keyword tags.
 
-<strong>All Features:</strong>
+<h3>All Features:</h3>
 <ul>
 	<li><strong>Really Simple Guest Post Plugin</strong> will create a form where your guests can submit their posts.</li>
 	<li>Posts will be directly saved into WordPress database and will show up in Admin Dashboard as pending post.</li>
