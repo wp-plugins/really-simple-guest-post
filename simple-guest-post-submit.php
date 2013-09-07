@@ -23,7 +23,8 @@ $nonce=$_POST["_wpnonce"];
 
 //Verify the form fields
 if (! wp_verify_nonce($nonce) ) die('Security check'); 
-
+    $user = get_user_by("login",$authorid);
+    $authorid = $user->ID;
    //Post Properties
     $new_post = array(
             'post_title'    => $title,
