@@ -8,7 +8,6 @@ Stable Tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-<img class="alignnone  wp-image-945" title="mlogo" src="http://3.bp.blogspot.com/-elSDEL4p-QY/UiR5DxEzMHI/AAAAAAAABXY/eM0jhULRl7M/s1600/Really+Simple+Guest+Post+Plugin.jpg" alt="" width="698" height="268" />
 Really Simple Guest Post Plugin will help you to generate a guest posting form in the simple and easiest way.
 
 == Description ==
