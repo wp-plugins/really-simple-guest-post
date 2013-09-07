@@ -31,7 +31,7 @@ Create a new page/post with the name "Really Simple Guest Post" or whatever you 
 
 If you don’t want to use custom redirect url or author then use this shortcode  <code>[mag-simple-guest-post]</code> into the page/post and publish it. It will publish post under admin and redirect will be to homepage.
 
-What are you thinking about this plugin now? May I get a 5 star review for this plugin...:)
+If you think this plugin is really helpful for you then give a 5 star review to say thanks.
 
 For more help visit plugin site <a href="http://freebloggingtricks.com/really-simple-guest-post-plugin/" target="_blank"><strong>FreeBloggingTricks.com</strong></a>
 
