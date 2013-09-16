@@ -1,6 +1,6 @@
 === Really Simple Guest Post Plugin ===
 Contributors: mag_oberon
-Donate link: http://freebloggingtricks.com/
+Donate link: http://freebloggingtricks.com/donate
 Tags: guest post, post from front end, anonymous post, guest book, front end post, guest blogger, post, posts, admin, user post, visitor post, guest author, guest posting, author, user, guest author, guest author plugin, plugin
 Requires at least: 3.0
 Tested Up to: 3.6.0
