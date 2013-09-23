@@ -29,7 +29,7 @@ if (! wp_verify_nonce($nonce) ) die('Security check');
     $new_post = array(
             'post_title'    => $title,
             'post_content'  => $description,
-            'post_category' => $category,  // Usable for custom taxonomies too
+            'post_category' => array($_POST['cat']),  // Usable for custom taxonomies too
             'tags_input'    => $tags,
             'post_status'   => 'pending',           // Choose: publish, preview, future, draft, etc.
             'post_type' => 'post',  //'post',page' or use a custom post type if you want to
