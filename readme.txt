@@ -16,7 +16,7 @@ Looking for wordpress guest post plugin? Use Really Simple Guest Post Plugin and
 <h3>All Features:</h3>
 <ul>
 	<li><strong>Really Simple Guest Post Plugin</strong> will create a form where your guests can submit their posts.</li>
-	<li>Posts will be directly saved into WordPress database and will show up in Admin Dashboard as pending post.</li>
+	<li>Posts will be directly saved into WordPress database and will show up in Admin Dashboard as pending post with given <strong>Title, Description, Category and Tags</strong>.</li>
 	<li>Moderator will be able to review and approve them as needed.</li>
 	<li>Authors Name, Author url and email will be added as custom field.</li>
 	<li>So simple and user friendly</li>
