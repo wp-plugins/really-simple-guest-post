@@ -3,7 +3,7 @@
 Plugin Name: Really Simple Guest Post Plugin
 Plugin URI: http://freebloggingtricks.com/really-simple-guest-post-plugin/
 Description: Really Simple Guest Post Plugin allow your visitors to submit posts without registration from anywhere on your site.
-Version: 1.0.2
+Version: 1.0.3
 Author: Ataul Ghani
 Author URI: http://freebloggingtricks.com/
 Requires at least: 3.0

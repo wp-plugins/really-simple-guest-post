@@ -65,8 +65,13 @@ Do you have any question? Frequently ask to support blog <strong><a href="http:/
 <strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
 
 == Changelog ==
+
+= 1.0.3 =
+* Cetegory problem fixed.
+
 = 1.0.2 =
 * Dropdown category selector added.
+
 = 1.0.1 =
 * Update selected author by username.
 
