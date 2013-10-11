@@ -62,7 +62,9 @@ Do you have any question? Frequently ask to support blog <strong><a href="http:/
 == Upgrade Notice ==
 
 == Screenshots ==
-<strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
+
+1. guest post form mode
+2. pending post
 
 == Changelog ==
 
@@ -79,4 +81,6 @@ Do you have any question? Frequently ask to support blog <strong><a href="http:/
 = 1.0.0 =
 
 * Initial release.
+== ==
 
+<strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
