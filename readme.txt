@@ -21,7 +21,7 @@ Looking for wordpress guest post plugin? Use Really Simple Guest Post Plugin and
 	<li>Authors Name, Author url and email will be added as custom field.</li>
 	<li>So simple and user friendly</li>
 </ul>
-<strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
+<strong> See Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
 
 <strong>Note: </strong> Please read full description for better use.
 
