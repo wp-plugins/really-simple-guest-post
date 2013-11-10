@@ -68,6 +68,9 @@ Do you have any question? Frequently ask to support blog <strong><a href="http:/
 
 == Changelog ==
 
+= 1.0.4 =
+* Added Some More Languages.
+
 = 1.0.3 =
 * Cetegory problem fixed.
 
