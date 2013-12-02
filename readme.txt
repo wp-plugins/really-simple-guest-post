@@ -41,7 +41,7 @@ You will be able to add so simple and user friendly guest posting feature for yo
 
 1. From your WordPress Dashboard Go for a "Add New" inside "Plugins" menu.
 
-2. Search for "Guest Posts" and install the plugin.
+2. Search for "Really Simple Guest Post Plugin" and install the plugin.
 
 3. Activate the plugin
 
