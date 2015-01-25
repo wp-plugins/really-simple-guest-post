@@ -1,6 +1,6 @@
 === Really Simple Guest Post Plugin ===
 Contributors: mag_oberon
-Donate link: http://freebloggingtricks.com/donate
+Donate link: http://www.wpthorp.com/
 Tags: guest post, post from front end, anonymous post, guest book, front end post, guest blogger, post, posts, admin, user post, visitor post, guest author, guest posting, author, user, guest author, guest author plugin, plugin
 Requires at least: 3.0
 Tested Up to: 3.6.0
@@ -21,7 +21,7 @@ Looking for wordpress guest post plugin? Use Really Simple Guest Post Plugin and
 	<li>Authors Name, Author url and email will be added as custom field.</li>
 	<li>So simple and user friendly</li>
 </ul>
-<strong> See Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>
+
 
 <strong>Note: </strong> Please read full description for better use.
 
@@ -33,7 +33,7 @@ If you don’t want to use custom redirect url or author then use this shortcode  
 
 If you think this plugin is really helpful for you then give a 5 star review to say thanks.
 
-For more help visit plugin site <a href="http://freebloggingtricks.com/really-simple-guest-post-plugin/" target="_blank"><strong>FreeBloggingTricks.com</strong></a>
+For more help visit plugin site <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>FreeBloggingTricks.com</strong></a>
 
 == Installation ==
 
@@ -53,11 +53,11 @@ You will be able to add so simple and user friendly guest posting feature for yo
 
 Nice!!! Plugin upload and activation have been completed!!!
 
-<strong>How to use this plugin?</strong> To know all instruction visit plugin <a href="http://freebloggingtricks.com/really-simple-guest-post-plugin/" target="_blank"><strong>support blog</strong></a>.
+<strong>How to use this plugin?</strong> To know all instruction visit plugin <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>support blog</strong></a>.
 
 == Frequently Asked Questions ==
 
-Do you have any question? Frequently ask to support blog <strong><a href="http://freebloggingtricks.com/really-simple-guest-post-plugin/" target="_blank">FreeBloggingTricks.com</a></strong>
+Do you have any question? Frequently ask to support blog <strong><a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank">WPThorp.com</a></strong>
 
 == Upgrade Notice ==
 
@@ -85,5 +85,3 @@ Do you have any question? Frequently ask to support blog <strong><a href="http:/
 
 * Initial release.
 == ==
-
-<strong>Live Preview:</strong> <a href="http://freebloggingtricks.com/post-your-article-without-register/" target="_blank">http://freebloggingtricks.com/post-your-article-without-register/</a>

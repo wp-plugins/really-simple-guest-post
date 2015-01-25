@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Really Simple Guest Post Plugin
-Plugin URI: http://freebloggingtricks.com/really-simple-guest-post-plugin/
+Plugin URI: http://www.wpthorp.com/really-simple-guest-post-wordpress/
 Description: Really Simple Guest Post Plugin allow your visitors to submit posts without registration from anywhere on your site.
 Version: 1.0.6
 Author: Ataul Ghani
-Author URI: http://freebloggingtricks.com/
+Author URI: http://www.wpthorp.com/
 Requires at least: 3.0
 Tested Up to: 3.6
 Stable Tag: trunk
