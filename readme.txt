@@ -33,7 +33,7 @@ If you don’t want to use custom redirect url or author then use this shortcode  
 
 If you think this plugin is really helpful for you then give a 5 star review to say thanks.
 
-For more help visit plugin site <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>FreeBloggingTricks.com</strong></a>
+For more help visit plugin site <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>http://www.wpthorp.com/really-simple-guest-post-wordpress/</strong></a>
 
 == Installation ==
 
