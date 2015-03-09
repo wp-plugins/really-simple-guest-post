@@ -57,7 +57,7 @@ Nice!!! Plugin upload and activation have been completed!!!
 
 == Frequently Asked Questions ==
 
-Do you have any question? Frequently ask to support blog <strong><a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank">WPThorp.com</a></strong>
+Do you have any question? Frequently Ask: http://www.wpthorp.com/questions/ask/
 
 == Upgrade Notice ==
 
