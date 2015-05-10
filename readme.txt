@@ -14,7 +14,7 @@ Really Simple Guest Post Plugin will help you to generate a guest posting form i
 Looking for wordpress guest post plugin? Use Really Simple Guest Post Plugin and allow your visitors to submit posts without registration (as a guest author). Anyone will be able to submit post and it will be added automatically as pending post. After reviewing you will be decide which posts approved for publish and which are rejected. Submitted posts will be included with author name, email address, author url, post title, description, categories and keyword tags. Use simple short-code <code>[mag-simple-guest-post redirect="url" author="username"]</code> (url= put your selected page/post url to redirect after form submit. Author= confirm your selected author username) inside page or post content to show guest posting form. 
 
 <blockquote>
-<p>For more help visit plugin site <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>http://www.wpthorp.com/really-simple-guest-post-wordpress/</strong></a></p>
+<p>Support Blog & Pro Installation: <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>http://www.wpthorp.com/really-simple-guest-post-wordpress/</strong></a></p>
 </blockquote>
 
 <h3>All Features:</h3>
