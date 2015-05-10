@@ -2,8 +2,8 @@
 Contributors: mag_oberon
 Donate link: http://www.wpthorp.com/
 Tags: guest post, post from front end, anonymous post, guest book, front end post, guest blogger, post, posts, admin, user post, visitor post, guest author, guest posting, author, user, guest author, guest author plugin, plugin
-Requires at least: 3.0
-Tested Up to: 3.6.0
+Requires at least: 4.0
+Tested Up to: 4.2.2
 Stable Tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,6 +12,10 @@ Really Simple Guest Post Plugin will help you to generate a guest posting form i
 
 == Description ==
 Looking for wordpress guest post plugin? Use Really Simple Guest Post Plugin and allow your visitors to submit posts without registration (as a guest author). Anyone will be able to submit post and it will be added automatically as pending post. After reviewing you will be decide which posts approved for publish and which are rejected. Submitted posts will be included with author name, email address, author url, post title, description, categories and keyword tags. Use simple short-code <code>[mag-simple-guest-post redirect="url" author="username"]</code> (url= put your selected page/post url to redirect after form submit. Author= confirm your selected author username) inside page or post content to show guest posting form. 
+
+<blockquote>
+<p>For more help visit plugin site <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>http://www.wpthorp.com/really-simple-guest-post-wordpress/</strong></a></p>
+</blockquote>
 
 <h3>All Features:</h3>
 <ul>
@@ -33,7 +37,6 @@ If you don’t want to use custom redirect url or author then use this shortcode  
 
 If you think this plugin is really helpful for you then give a 5 star review to say thanks.
 
-For more help visit plugin site <a href="http://www.wpthorp.com/really-simple-guest-post-wordpress/" target="_blank"><strong>http://www.wpthorp.com/really-simple-guest-post-wordpress/</strong></a>
 
 == Installation ==
 
