@@ -2,10 +2,10 @@
 /*
 An Important part of Really Simple Guest Post Plugin for WordPress.
 */
-
+if(!defined('ABSPATH')) die('!');
 //Get Really Simple Guest Post submitted form
 ob_start();
-require_once($_POST["rootpath"]);
+ 
 $title = $_POST["title"];
 $description = $_POST["description"];
 $tags = $_POST["tags"];
@@ -15,7 +15,7 @@ $site = $_POST["site"];
 $authorid = $_POST["authorid"];
 $category = $_POST["category"];
 $redirecturl = $_POST["redirect"];
-$path = $_POST["rootpath"];
+ 
 $nonce=$_POST["_wpnonce"];
 
 //Load WordPress

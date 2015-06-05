@@ -71,6 +71,9 @@ Do you have any question? Frequently Ask: http://www.wpthorp.com/questions/ask/
 
 == Changelog ==
 
+= 1.0.7 =
+* Fixed Security Issues.
+
 = 1.0.4 =
 * Added Some More Languages.
 

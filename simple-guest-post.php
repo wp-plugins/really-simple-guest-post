@@ -3,7 +3,7 @@
 Plugin Name: Really Simple Guest Post Plugin
 Plugin URI: http://www.wpthorp.com/really-simple-guest-post-wordpress/
 Description: Really Simple Guest Post Plugin allow your visitors to submit posts without registration from anywhere on your site.
-Version: 1.0.6
+Version: 1.0.7
 Author: Ataul Ghani
 Author URI: http://www.wpthorp.com/
 Requires at least: 3.0
@@ -21,7 +21,8 @@ function reallysimpleguestpost_shortcode( $atts ) {
         'redirect' => get_bloginfo('home'),
     ), $atts ) );
 
-    return '<form class="fbt-simple-guest-post" action="'. plugin_dir_url("simple-guest-post.php") .'really-simple-guest-post/simple-guest-post-submit.php" method="post">
+    return '<form class="fbt-simple-guest-post" action="" method="post">
+	<input type="hidden" name="gptask" value="savepost" />
 <p>The (*) marked fields are mandatory.</p>
 
 <strong>' . __('Your Name:*', 'fbt-simple-guest-post') . '</strong><br>
@@ -47,11 +48,24 @@ function reallysimpleguestpost_shortcode( $atts ) {
 <br><br><br>
 	<input type="hidden" value="'. $author .'" name="authorid">
         <input type="hidden" value="'. $redirect .'" name="redirect">
-        <input type="hidden" value="'. str_replace('/wp-content/themes', '', get_theme_root()) .'/wp-blog-header.php" name="rootpath">
+        
         <input type="submit" value="' . __('✓ Submit Your Post', 'really-simple-guest-post') . '"> <input type="reset" value="' . __('Reset', 'fbt-simple-guest-post') . '"><br>
         </form>
         ';
     }
+	
+	
+	function gp_save_post(){
+
+	if(isset($_POST['gptask']) && $_POST['gptask'] == 'savepost'){
+		require_once("simple-guest-post-submit.php");
+	}
+	
+	
+	
+	}
+	
+add_action("wp", "gp_save_post");	
 add_shortcode( 'mag-simple-guest-post', 'reallysimpleguestpost_shortcode' );
 
 ?>
